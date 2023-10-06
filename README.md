@@ -30,4 +30,4 @@
 <br />
 <br />
 
-Copyright ⓒ startupcode yaro
+Copyright ⓒ startupcode yaro 
